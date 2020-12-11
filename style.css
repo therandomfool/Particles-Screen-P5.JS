@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+h1 {
+    color: rgb(197, 240, 240);
+    
+	font-family: 'Acme', sans-serif;
+	font-size: 60px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	letter-spacing: 3px;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	margin: 0;
+}
+
+
